@@ -1,9 +1,8 @@
 
-Build: ![Gradle Build](https://github.com/alan-altruy/ClockSystem-TP/actions/workflows/gradle.yml/badge.svg)
-
-Code Quality: ![PMD](https://github.com/alan-altruy/ClockSystem-TP/actions/workflows/pmd.yml/badge.svg)
-
-CodeQL Analysis: ![CodeQL](https://github.com/alan-altruy/ClockSystem-TP/actions/workflows/codeql.yml/badge.svg)
+![Gradle Build](https://github.com/alan-altruy/ClockSystem-TP/actions/workflows/gradle.yml/badge.svg)
+![PMD](https://github.com/alan-altruy/ClockSystem-TP/actions/workflows/pmd.yml/badge.svg)
+![CodeQL](https://github.com/alan-altruy/ClockSystem-TP/actions/workflows/codeql.yml/badge.svg)
+![Scorecard](https://github.com/alan-altruy/ClockSystem-TP/actions/workflows/scorecard.yml/badge.svg)
 
 # ClockSystem
 This is a gradle-based Java project for a Clock with Swing GUI and JUnit5 unit tests. It has been created and used by Tom Mens for educational purposes at the University of Mons.
