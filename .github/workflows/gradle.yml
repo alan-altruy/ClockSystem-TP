@@ -48,3 +48,6 @@ jobs:
     
     - name: Build with Gradle
       run: gradle build
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v6.0.0
